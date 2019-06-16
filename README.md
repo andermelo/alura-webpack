@@ -1,2 +1,3 @@
-# alura-webpack
-Curso Webpack: Manipulando módulos na sua webapp
+# Curso Webpack: Manipulando módulos na sua webapp
+
+![Webpack]()
