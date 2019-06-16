@@ -2,6 +2,8 @@
 
 ![Webpack](https://github.com/andermelo/alura-webpack/blob/master/assets/images/webpack.png)
 
+> Códigos e projetos desenvolvidos durante o curso da [Alura](https://alura.com.br)
+
 ## Sumário
 
 1. Introdução
